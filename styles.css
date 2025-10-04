@@ -1,0 +1,6 @@
+.image-size {
+  width: 100%;
+  height: 300px;
+  padding: auto;
+  object-fit: cover;
+}
